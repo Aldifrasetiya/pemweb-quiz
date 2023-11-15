@@ -1,7 +1,9 @@
 Soal 1
+Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
 
-
-
+ framework merupakan kerangka kerja atau struktur dasar yang membantu pengembang membuat aplikasi dengan lebih mudah dan efisien.
+ singkatnya framework ini membantu menghemat waktu dalam membuat pengembangan aplikasi.
 
 Soal 2
 
